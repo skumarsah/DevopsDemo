@@ -1,5 +1,5 @@
 {
-"name": "Node App",
+"name": "NodeApp",
 "version": "1.0.0",
 "description": "An Application for Creating Web App on Kubernetes",
 "main": "server.js",
